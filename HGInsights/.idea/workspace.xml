@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48f5493d-daf6-4aae-9f09-5f74125ddf81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+        <option value="Arquillian TestNG Test Class" />
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UUTvsdH5WfkF961qM66DuCC2iR" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian TestNG" value="org.jboss.arquillian.testng.Arquillian" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30882353" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.com.junrui.java" />
+      <recent name="tst.main.com.junrui.java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="org.jboss.arquillian.testng.Arquillian" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tst/main/com/junrui/java" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CoordinatorTest.moveUpRoundTest">
+    <configuration name="CoordinatorTest.moveUpRoundTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HGInsights" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.junrui.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.com.junrui.java" />
+      <option name="MAIN_CLASS_NAME" value="main.com.junrui.java.CoordinatorTest" />
+      <option name="METHOD_NAME" value="moveUpRoundTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoordinatorTest.moveUpTestToFail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HGInsights" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.junrui.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.com.junrui.java" />
+      <option name="MAIN_CLASS_NAME" value="main.com.junrui.java.CoordinatorTest" />
+      <option name="METHOD_NAME" value="moveUpTestToFail" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotMoveTest.move" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HGInsights" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.junrui.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.com.junrui.java" />
+      <option name="MAIN_CLASS_NAME" value="main.com.junrui.java.RobotMoveTest" />
+      <option name="METHOD_NAME" value="move" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotMoveTest.moveRoundTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HGInsights" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.junrui.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.com.junrui.java" />
+      <option name="MAIN_CLASS_NAME" value="main.com.junrui.java.RobotMoveTest" />
+      <option name="METHOD_NAME" value="moveRoundTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotMoveTest.moveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HGInsights" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.junrui.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.com.junrui.java" />
+      <option name="MAIN_CLASS_NAME" value="main.com.junrui.java.RobotMoveTest" />
+      <option name="METHOD_NAME" value="moveTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.CoordinatorTest.moveUpTestToFail" />
+      <item itemvalue="TestNG.RobotMoveTest.move" />
+      <item itemvalue="TestNG.RobotMoveTest.moveTest" />
+      <item itemvalue="TestNG.RobotMoveTest.moveRoundTest" />
+      <item itemvalue="TestNG.CoordinatorTest.moveUpRoundTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CoordinatorTest.moveUpRoundTest" />
+        <item itemvalue="TestNG.CoordinatorTest.moveUpTestToFail" />
+        <item itemvalue="TestNG.RobotMoveTest.moveRoundTest" />
+        <item itemvalue="TestNG.RobotMoveTest.moveTest" />
+        <item itemvalue="TestNG.RobotMoveTest.move" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Codes/ES2Pipeline/src/LAX19WebDataApplications" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Codes/ES2Pipeline2/src/LAX19WebDataApplications" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Codes/LAX19/src/LAX19WebDataApplications" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Codes/LuigiPipeline/src/LAX19LuigiPipeline" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Codes/Temporal ES Index pipeline Job/TempES2IndexPipeline/src/LAX19WebDataApplications" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48f5493d-daf6-4aae-9f09-5f74125ddf81" name="Default Changelist" comment="" />
+      <created>1575410407100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575410407100</updated>
+      <workItem from="1575410411790" duration="2434000" />
+      <workItem from="1575493748637" duration="4716000" />
+      <workItem from="1575650246865" duration="306000" />
+      <workItem from="1576974456743" duration="45000" />
+      <workItem from="1578003698222" duration="82000" />
+      <workItem from="1578003888759" duration="79000" />
+      <workItem from="1578004074923" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
